@@ -1,7 +1,7 @@
 DOI: [![DOI](https://zenodo.org/badge/1327546214.svg)](https://doi.org/10.5281/zenodo.21848593)
 # Beyond global concentration — reproducibility release v1.0.0
 
-**Zenodo DOI:** `<INSERT_ZENODO_EXACT_VERSION_DOI_HERE>`
+**Zenodo DOI:** `10.5281/zenodo.21848593`
 
 This archive is the data/code/figure reproducibility release for:
 
