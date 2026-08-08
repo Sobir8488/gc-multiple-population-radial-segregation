@@ -1,0 +1,45 @@
+# After Zenodo reserves the exact-version DOI, add:
+# doi: "10.5281/zenodo.XXXXXXXX"
+#
+# Also add the DOI under preferred-citation only if you want the data release
+# (rather than the journal article) to be the preferred citation.
+
+cff-version: 1.2.0
+message: "If you use these data or code, please cite this Zenodo reproducibility release and the associated journal article."
+title: "Beyond global concentration: differential radial segregation of multiple populations in six Galactic globular clusters: reproducibility release"
+type: dataset
+version: "1.0.0"
+date-released: 2026-08-08
+authors:
+  - family-names: "Turaev"
+    given-names: "Sirojiddin"
+    orcid: "https://orcid.org/0009-0007-4172-1460"
+    affiliation: "Department of Natural Sciences, Faculty of Digital Technology and Artificial Intelligence, Karshi State Technical University, 225 Mustaqillik Street, Karshi 180100, Uzbekistan"
+  - family-names: "Turaev"
+    given-names: "Sobir"
+    orcid: "https://orcid.org/0000-0002-4932-241X"
+    affiliation: "Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy Street 33, Tashkent 100052, Uzbekistan"
+  - family-names: "Ismoilov"
+    given-names: "Davron"
+    orcid: "https://orcid.org/0009-0003-9493-8621"
+    affiliation: "Department of Natural Sciences, Faculty of Digital Technology and Artificial Intelligence, Karshi State Technical University, 225 Mustaqillik Street, Karshi 180100, Uzbekistan"
+keywords:
+  - "globular clusters"
+  - "multiple stellar populations"
+  - "HST"
+  - "HUGS"
+  - "radial segregation"
+  - "conditional inference"
+  - "reproducibility"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  title: "Beyond global concentration: differential radial segregation of multiple populations in six Galactic globular clusters"
+  authors:
+    - family-names: "Turaev"
+      given-names: "Sirojiddin"
+    - family-names: "Turaev"
+      given-names: "Sobir"
+    - family-names: "Ismoilov"
+      given-names: "Davron"
+  year: 2026
