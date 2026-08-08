@@ -1,5 +1,6 @@
+
 # After Zenodo reserves the exact-version DOI, add:
-# doi: "10.5281/zenodo.XXXXXXXX"
+# doi: "10.5281/zenodo.21848594"
 #
 # Also add the DOI under preferred-citation only if you want the data release
 # (rather than the journal article) to be the preferred citation.
